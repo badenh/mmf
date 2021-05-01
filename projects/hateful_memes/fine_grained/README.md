@@ -4,7 +4,7 @@ This folder contains configs required to reproduce results and baselines for [20
 
 ## Prerequisites
 
-Install MMF following the [installation docs](https://mmf.sh/docs/getting_started/installation/).
+Install MMF following the [installation docs](https://mmf.sh/docs/).
 
 To acquire the hateful memes data, follow th instructions [here](https://github.com/facebookresearch/mmf/tree/master/projects/hateful_memes).
 
